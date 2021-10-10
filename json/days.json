@@ -1,0 +1,604 @@
+[
+    {
+        "codigo": 1,
+        "url": "../media/destinos/dia1bsas.jpg",
+        "titulo": "Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es": "Llegada a Buenos Aires. Recepción en el aeropuerto y traslado al hotel seleccionado. Resto del día libre para iniciar el contacto con esta interesante ciudad. Por la noche te recomendamos disfrutar de un típico plato argentino en uno de los tantos restaurantes que la ciudad ofrece.",
+            "pt":"Chegada em Buenos Aires. Recepção no aeroporto e translado ao hotel selecionado. Resto do dia livre para contato com esta interessante cidade. À noite recomendamos que você deguste um prato típico argentino em um dos muitos restaurantes que a cidade oferece.",
+            "en": "Arrival in Buenos Aires. Airport reception and move to the selected hotel. Rest of the day free to start contact with this interesting city. At night we recommend you enjoy a typical Argentine dish in one of the many restaurants that the city offers.",
+            "it": "Arrivo a Buenos Aires. Accoglienza in aeroporto e trasferimento nell'hotel prescelto. Resto della giornata libero per iniziare i contatti con questa interessante città. La sera vi consigliamo di gustare un piatto tipico argentino in uno dei tanti ristoranti che la città offre.",
+            "fr": "Arrivée à Buenos Aires. Accueil à l'aéroport et transfert à l'hôtel sélectionné. Reste de la journée libre pour prendre contact avec cette ville intéressante. Le soir, nous vous recommandons de déguster un plat typiquement argentin dans l'un des nombreux restaurants que propose la ville."
+        }       
+    },      
+    {
+        "codigo": 2,
+        "url": "../media/destinos/dia2bsas.jpg",
+        "titulo": "Buenos Aires",
+        "subtitulo": "City tour",
+        "detalle": 
+        {
+            "es": "Desayuno. Nuestro city tour de medio día ofrece una visita panorámica de la ciudad y sus principales atractivos, recorriendo: Avenida 9 de Julio, el Obelisco, el Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, el Cabildo, la Catedral Metropolitana, Barrios de San Telmo, La Boca y Caminito y el famoso barrio de la Recoleta con su cementerio. Tarde libre. Por la noche, sugerimos como Tour opcional asistir a alguno de los variados lugares donde pueden disfrutar de una Cena y Show de Tango.",
+            "pt":"Café da manhã. Nosso city tour de meio dia oferece uma visita panorâmica da cidade e seus principais atrativos, visitando: Avenida 9 de Julio, Obelisco, Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, Cabildo, Catedral Metropolitana, Bairros San Telmo, La Boca e Caminito e o famoso bairro da Recoleta com seu cemitério. Tarde livre. À noite, sugerimos como passeio opcional a presença em um dos diversos locais onde poderá desfrutar de Jantar e Show de Tango.",
+            "en": "Breakfast. Our half-day city tour offers a panoramic visit of the city and its main attractions, visiting: Avenida 9 de Julio, the Obelisco, the Colón Theater, Avenida de Mayo, Plaza de Mayo, Casa Rosada, the Cabildo, the Metropolitan Cathedral, San Telmo, La Boca and Caminito neighborhoods and the famous Recoleta neighborhood with its cemetery. Free afternoon. At night, we suggest as an optional Tour to attend one of the various places where you can enjoy a Dinner and Tango Show.",
+            "it": "Colazione. Il nostro tour della città di mezza giornata offre una visita panoramica della città e delle sue principali attrazioni, visitando: Avenida 9 de Julio, l'Obelisco, il Teatro Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, il Cabildo, la Cattedrale Metropolitana, I quartieri di San Telmo, La Boca e Caminito e il famoso quartiere Recoleta con il suo cimitero. Pomeriggio libero. Di notte, suggeriamo come Tour facoltativo per assistere ad uno dei vari locali dove poter assistere ad una Cena e Spettacolo di Tango.",
+            "fr": "Déjeuner. Notre tour de ville d'une demi-journée propose une visite panoramique de la ville et de ses principales attractions, en visitant : Avenida 9 de Julio, l'Obelisco, le Théâtre Colón, Avenida de Mayo, Plaza de Mayo, Casa Rosada, le Cabildo, la Cathédrale Métropolitaine, Les quartiers de San Telmo, La Boca et Caminito et le célèbre quartier de Recoleta avec son cimetière. Soirée libre. La nuit, nous vous suggérons, en option, d'assister à l'un des différents endroits où vous pourrez profiter d'un dîner et d'un spectacle de tango."
+        }       
+    },      
+    {
+        "codigo": 3,
+        "url": "../media/destinos/dia3bsas.jpg",
+        "titulo": "Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Día libre para actividades personales. Se sugiere realizar tours opcionales, como la excursión al Tigre y Delta del Paraná, o la Excursión Fiesta Gaucha con almuerzo.",
+            "pt":"Dia livre para atividades pessoais. Sugere-se fazer passeios opcionais, como a excursão ao Tigre e Delta do Paraná ou a Excursão Fiesta Gaúcha com almoço.",
+            "en":"Free day for personal activities. It is suggested to take optional tours, such as the excursion to the Tigre and Paraná Delta, or the Fiesta Gaucha Excursion with lunch.",
+            "it":"Giornata libera per attività personali. Si consiglia di fare escursioni facoltative, come l'escursione al delta del Tigre e del Paraná, o l'escursione Fiesta Gaucha con pranzo.",
+            "fr":"Journée libre pour activités personnelles. Il est suggéré de faire des visites facultatives, telles que l'excursion au delta du Tigre et du Paraná, ou l'excursion Fiesta Gaucha avec déjeuner."
+        }       
+    },      
+    {
+        "codigo": 4,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"A la hora a apropiada, traslado al Aeropuerto Internacional de Ezeiza para embarcar el vuelo de regreso a casa",
+            "pt":"Em horário apropriado, traslado ao Aeroporto Internacional de Ezeiza para embarque no vôo de volta para casa",
+            "en":"At the appropriate time, transfer to the Ezeiza International Airport to board the flight back home",
+            "it":"Al momento opportuno, trasferimento all'aeroporto internazionale di Ezeiza per imbarcarsi sul volo di ritorno a casa",
+            "fr":"Au moment opportun, transfert à l'aéroport international d'Ezeiza pour prendre le vol de retour"
+        }       
+    },      
+    {
+        "codigo": 5,
+        "url": "../media/destinos/iguazu4.jpg",
+        "titulo": "Buenos Aires / Iguazú",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Iguazú. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Iguaçu. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Iguazú. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Iguazú. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol pour Iguazú. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 6,
+        "url": "../media/destinos/iguazu1.jpg",
+        "titulo": "Iguazú",
+        "subtitulo": "Cataratas lado Argentino",
+        "detalle": 
+        {
+            "es":"Desayuno. Por la mañana comienza la excursión de día completo para visitar las Cataratas del lado Argentino. Localizadas en el corazón del Parque Nacional de Iguazú y declaradas Patrimonio de la Humanidad, este paseo proporciona a sus visitantes un mayor contacto con la flora y fauna del lugar, se recorren las diferentes pasarelas dentro del Parque Nacional para lograr obtener las increíbles vistas de las más de 200 cascadas. Al medio día tendrás tiempo para almorzar y tomar la navegación opcional “Gran Aventura”, que recorre las cataratas desde cerca. En la tarde, tomarás el tren que lleva a la más grande de las atracciones del parque: la Garganta del Diablo. Posteriormente serás trasladado de vuelta al hotel.",
+            "pt":"Café da manhã. Pela manhã começa a excursão de dia inteiro para visitar as Cataratas do lado argentino. Localizada no coração do Parque Nacional do Iguaçu e declarada Patrimônio da Humanidade, esta caminhada proporciona aos seus visitantes um maior contato com a flora e fauna do lugar, as diferentes passarelas do Parque Nacional são percorridas para obter as incríveis vistas dos mais de 200 cachoeiras. Ao meio-dia você terá tempo para almoçar e fazer a navegação opcional Grande Aventura, que percorre as cachoeiras de perto. À tarde, você pegará o trem que o levará ao maior dos atrativos do parque: a Garganta do Diabo. Mais tarde, você será levado de volta ao hotel.",
+            "en":"Breakfast. In the morning the full day excursion begins to visit the Falls on the Argentine side. Located in the heart of the Iguazú National Park and declared a World Heritage Site, this walk provides its visitors with greater contact with the flora and fauna of the place, the different walkways within the National Park are crossed to obtain the incredible views of the more than 200 waterfalls. At noon, you will have time to have lunch and take the optional “Gran Aventura” navigation, which tours the falls from up close. In the afternoon, you will take the train that takes you to the largest of the park's attractions: the Devil's Throat. Later you will be transferred back to the hotel.",
+            "it":"Colazione. Al mattino inizia l'escursione di un'intera giornata per visitare le cascate sul versante argentino. Situata nel cuore del Parco Nazionale dell'Iguazú e dichiarata Patrimonio dell'Umanità, questa passeggiata offre ai suoi visitatori un maggiore contatto con la flora e la fauna del luogo, le diverse passerelle all'interno del Parco Nazionale vengono attraversate per ottenere le incredibili viste del più di 200 cascate. A mezzogiorno avrai tempo per pranzare e fare la navigazione facoltativa Great Adventure, che percorre le cascate da vicino. Nel pomeriggio prenderete il treno che vi porterà alla più grande delle attrazioni del parco: la Gola del Diavolo. Successivamente verrai trasferito di nuovo in hotel.",
+            "fr":"Déjeuner. Le matin, l'excursion d'une journée commence pour visiter les chutes du côté argentin. Situé au cœur du parc national d'Iguazú et déclaré site du patrimoine mondial, cette promenade offre à ses visiteurs un plus grand contact avec la flore et la faune du lieu, les différentes allées du parc national sont traversées pour obtenir des vues incroyables sur les plus plus de 200 cascades. À midi, vous aurez le temps de déjeuner et de prendre la navigation facultative Grande aventure, qui parcourt les chutes de près. L'après-midi, vous prendrez le train qui vous conduira à la plus grande des attractions du parc : la Gorge du Diable. Plus tard, vous serez transféré à l'hôtel."
+        }       
+    },      
+    {
+        "codigo": 7,
+        "url": "../media/destinos/iguazu2.jpg",
+        "titulo": "Iguazú / Buenos Aires",
+        "subtitulo": "Cataratas lado Brasilero",
+        "detalle": 
+        {
+            "es":"Desayuno. Por la mañana realizarás una excursión de medio día al Lado Brasileño de las Cataratas del Iguazú donde obtendrás vistas panorámicas de las cataratas visitadas el día anterior. Por la tarde, serás trasladado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto, y traslado en servicio privado hasta el Hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Pela manhã você fará uma excursão de meio dia ao lado brasileiro das Cataratas do Iguaçu, onde você terá uma vista panorâmica das cataratas visitadas no dia anterior. À tarde, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço privativo ao Hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. In the morning you will take a half day excursion to the Brazilian Side of the Iguazu Falls where you will get panoramic views of the falls visited the day before. In the afternoon, you will be transferred to the airport to take the flight to Buenos Aires. Arrival at the airport, and transfer in private service to the selected Hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al mattino farai un'escursione di mezza giornata al lato brasiliano delle cascate di Iguazu, dove avrai una vista panoramica delle cascate visitate il giorno prima. Nel pomeriggio trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio privato all'Hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Dans la matinée, vous ferez une excursion d'une demi-journée du côté brésilien des chutes d'Iguazu où vous aurez une vue panoramique sur les chutes visitées la veille. Dans l'après-midi, vous serez transféré à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport, et transfert en service privé à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 8,
+        "url": "../media/destinos/ush1.jpg",
+        "titulo": "Buenos Aires / Ushuaia",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Ushuaia. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Ushuaia. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Ushuaia. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno trasferimento in aeroporto per prendere il volo per Ushuaia. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Ushuaia. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 9,
+        "url": "../media/destinos/ush3.jpg",
+        "titulo": "Ushuaia",
+        "subtitulo": "Parque nacional Tierra del Fuego",
+        "detalle": 
+        {
+            "es":"Desayuno. Por la mañana salida en excursión de medio día visitando el Parque Nacional Tierra del Fuego. Dentro del Parque descubriremos los lugares más emblemáticos rodeados por bosques, montañas y paisajes sin igual. Visitaremos el Lago Roca o Acigami, un deslumbrante Lago de origen Glaciar, ubicado entre la frontera entre Argentina y Chile, en ese sitio realizaremos una caminata corta (trekking), bordeando el Lago y el Rio Lapataia. El último lugar para visitar, es hasta el final del camino la Bahía Lapataia, donde termina la Ruta Núm. 3 ruta panamericana. El lugar más Austral que podemos alcanzar juntos con nuestro guía, descubriremos todos los secretos del Parque, mientras disfrutamos la sensación de estar en el Fin del Mundo.",
+            "pt":"Café da manhã. Pela manhã saída para excursão de meio dia visitando o Parque Nacional Tierra del Fuego. Dentro do Parque vamos descobrir os lugares mais emblemáticos rodeados de florestas, montanhas e paisagens sem igual. Visitaremos o Lago Roca ou Acigami, um deslumbrante Lago de origem glacial, localizado entre a fronteira entre a Argentina e o Chile, nesse local faremos uma curta caminhada (trekking), margeando o Lago e o Rio Lapataia. O último local a visitar é a Baía de Lapataia até o final da estrada, onde termina a Rota nº 3 da rota Pan-americana. O lugar mais meridional que podemos alcançar junto com nosso guia, vamos descobrir todos os segredos do Parque, enquanto desfrutamos da sensação de estar no Fim do Mundo.",
+            "en":"Breakfast. In the morning, departure on a half-day excursion visiting the Tierra del Fuego National Park. Inside the Park we will discover the most emblematic places surrounded by forests, mountains and landscapes without equal. We will visit Lake Roca or Acigami, a dazzling Lake of Glacial origin, located between the border between Argentina and Chile, in that place we will make a short walk (trekking), bordering the Lake and the Lapataia River. The last place to visit is Lapataia Bay until the end of the road, where Route No. 3 Pan-American route ends. The southernmost place that we can reach together with our guide, we will discover all the secrets of the Park, while we enjoy the feeling of being at the End of the World.",
+            "it":"Colazione. In mattinata partenza per un'escursione di mezza giornata visitando il Parco Nazionale Terra del Fuoco. All'interno del Parco scopriremo i luoghi più emblematici circondati da boschi, montagne e paesaggi senza eguali. Visiteremo il Lago Roca o Acigami, un abbagliante Lago di origine glaciale, situato tra il confine tra Argentina e Cile, in quel luogo faremo una breve passeggiata (trekking), costeggiando il Lago e il fiume Lapataia. L'ultimo posto da visitare è la baia di Lapataia fino alla fine della strada, dove termina la Route n. 3 della Panamericana. Il luogo più a sud che possiamo raggiungere insieme alla nostra guida, scopriremo tutti i segreti del Parco, mentre ci godiamo la sensazione di essere alla fine del mondo.",
+            "fr":"Déjeuner. Le matin, départ pour une excursion d'une demi-journée dans le parc national de la Terre de Feu. À l'intérieur du parc, nous découvrirons les lieux les plus emblématiques entourés de forêts, de montagnes et de paysages sans égal. Nous visiterons le lac Roca ou Acigami, un lac éblouissant d'origine glaciaire, situé entre la frontière entre l'Argentine et le Chili, à cet endroit, nous ferons une courte promenade (trekking), bordant le lac et la rivière Lapataia. Le dernier endroit à visiter est la baie de Lapataia jusqu'à la fin de la route, où se termine la route panaméricaine n ° 3. L'endroit le plus au sud que nous pouvons atteindre avec notre guide, nous découvrirons tous les secrets du parc, tout en profitant de la sensation d'être au bout du monde."
+        }       
+    },      
+    {
+        "codigo": 10,
+        "url": "../media/destinos/ush2.jpg",
+        "titulo": "Ushuaia",
+        "subtitulo": "Navegación Canal Beagle",
+        "detalle": 
+        {
+            "es":"Desayuno. Al embarcarse en este catamarán, se obtendrá una panorámica impagable de la ciudad y su puerto. Sus recorridos pueden abarcar: la isla de los pájaros y la lobería, hábitat de los lobos marinos; la pingüinera, donde se observará varios tipos de pingüinos y también nos acercamos al faro LES ECLAIREURS, más conocido como el Faro del fin del mundo, típica postal de Ushuaia, incluyendo las islas Bridge e Isla Karelo.",
+            "pt":"Café da manhã. Ao embarcar neste catamarã, você terá uma vista inestimável da cidade e seu porto. Suas rotas podem incluir: a ilha dos pássaros e dos lobos, habitat dos leões marinhos; a colônia de pingüins, onde você verá vários tipos de pingüins e também nos aproximaremos do farol LES ECLAIREURS, mais conhecido como o Farol do Fim do Mundo, um cartão postal típico de Ushuaia, incluindo as Ilhas da Ponte e a Ilha do Karelo.",
+            "en":"Breakfast. When embarking on this catamaran, you will get a priceless view of the city and its port. Their routes can include: the island of the birds and the wolves, habitat of the sea lions; the penguin colony, where you will see various types of penguins and we also approach the LES ECLAIREURS lighthouse, better known as the Lighthouse at the end of the world, a typical postcard of Ushuaia, including the Bridge islands and Karelo Island.",
+            "it":"Colazione. Quando ti imbarchi su questo catamarano, avrai una vista impagabile della città e del suo porto. I loro percorsi possono includere: l'isola degli uccelli e dei lupi, habitat dei leoni marini; la colonia dei pinguini, dove vedrete vari tipi di pinguini e ci avviciniamo anche al faro di LES ECLAIREURS, meglio conosciuto come il Faro della fine del mondo, una tipica cartolina di Ushuaia, tra le isole del Ponte e l'isola di Karelo.",
+            "fr":"Déjeuner. En embarquant sur ce catamaran, vous aurez une vue inestimable sur la ville et son port. Leurs parcours peuvent comprendre : l'île aux oiseaux et aux loups, habitat des otaries ; la colonie de manchots, où vous verrez différents types de manchots et nous approchons également du phare LES ECLAIREURS, plus connu sous le nom de Phare du bout du monde, une carte postale typique d'Ushuaia, comprenant les îles Bridge et l'île Karelo."
+        }       
+    },      
+    {
+        "codigo": 11,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "Ushuaia / Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Buenos Aires. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 12,
+        "url": "../media/destinos/ush1.jpg",
+        "titulo": "El Calafate / Ushuaia",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Ushuaia. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Ushuaia. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Ushuaia. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Ushuaia. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Ushuaia. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 13,
+        "url": "../media/destinos/calafate3.jpg",
+        "titulo": "Buenos Aires / El Calafate",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Calafate. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Calafate. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Calafate. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Calafate. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Calafate. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 14,
+        "url": "../media/destinos/calafate1.jpg",
+        "titulo": "El Calafate",
+        "subtitulo": "Parque nacional los glaciares",
+        "detalle": 
+        {
+            "es":"Desayuno. Salida por la mañana hacia  la ruta que bordea el Lago Argentino hasta alcanzar el Parque Nacional Los Glaciares, el mismo debe su nombre a la presencia de numerosos glaciares que se originan en el gran Campo de Hielo Patagónico, (el manto de hielo más grande del mundo después de la Antártida) el cual ocupa casi la mitad del Parque. Continuando camino se llega a las pasarelas y mirador del Glaciar Perito Moreno. Se puede realizar en forma opcional el Safari Náutico, que proporciona al visitante, en una corta navegación, una increíble experiencia bordeando la misma pared de hielo del Glaciar (duración una hora). Almuerzo (no incluido) en la unidad turística y tiempo libre. Por la tarde regreso a El Calafate. Para un tour de aventura se puede realizar el Big Ice o Minitrekking, los cuales permiten realizar una caminata sobre el glaciar.",
+            "pt":"Café da manhã. Saída pela manhã em direção à rota que margeia o Lago Argentino até chegar ao Parque Nacional Los Glaciares, deve seu nome à presença de numerosos glaciares que se originam no grande Campo de Gelo Patagônico (o maior manto de gelo do mundo). após a Antártica) que ocupa quase a metade do Parque. Continuando o caminho, chegará às passarelas e ao mirante do Glaciar Perito Moreno. Opcionalmente, pode-se fazer o Safari Náutico, que proporciona ao visitante, em uma curta navegação, uma experiência incrível margeando a mesma parede de gelo do Glaciar (duração de uma hora). Almoço (não incluído) na unidade turística e tempo livre. À tarde, retorno a El Calafate. Para um passeio de aventura você pode fazer o Big Ice ou Minitrekking, que permitem dar um passeio na geleira.",
+            "en":"Breakfast. Departure in the morning towards the route that borders the Argentino Lake until reaching the Los Glaciares National Park, it owes its name to the presence of numerous glaciers that originate in the great Patagonian Ice Field, (the largest ice sheet in the world). world after Antarctica) which occupies almost half of the Park. Continuing on the way, you will reach the footbridges and viewpoint of the Perito Moreno Glacier. You can optionally do the Nautical Safari, which provides the visitor, in a short navigation, an incredible experience bordering the same ice wall of the Glacier (duration one hour). Lunch (not included) in the tourist unit and free time. In the afternoon, return to El Calafate. For an adventure tour you can do the Big Ice or Minitrekking, which allow you to take a walk on the glacier.",
+            "it":"Colazione. Partenza in mattinata verso il percorso che costeggia il Lago Argentino fino a raggiungere il Parco Nazionale Los Glaciares, deve il suo nome alla presenza di numerosi ghiacciai che hanno origine nel grande Ghiaccio Patagonico, (la più grande calotta glaciale del mondo). dopo l'Antartide) che occupa quasi la metà del Parco. Proseguendo si raggiungono le passerelle e il belvedere del Ghiacciaio Perito Moreno. Si può opzionalmente fare il Safari Nautico, che offre al visitatore, in una breve navigazione, un'incredibile esperienza costeggiando la stessa parete di ghiaccio del Ghiacciaio (durata un'ora). Pranzo (non incluso) nell'unità turistica e tempo libero. Nel pomeriggio rientro a El Calafate. Per un tour avventuroso puoi fare il Big Ice o il Minitrekking, che ti permettono di fare una passeggiata sul ghiacciaio.",
+            "fr":"Déjeuner. Départ le matin vers la route qui borde le lac Argentino jusqu'à atteindre le parc national Los Glaciares, il doit son nom à la présence de nombreux glaciers qui prennent leur origine dans le grand champ de glace de Patagonie, (la plus grande calotte glaciaire du monde). après l'Antarctique) qui occupe près de la moitié du Parc. En continuant sur le chemin, vous atteindrez les passerelles et le point de vue du glacier Perito Moreno. Vous pouvez en option faire le Safari Nautique, qui offre au visiteur, dans une courte navigation, une expérience incroyable bordant la même paroi de glace du Glacier (durée une heure). Déjeuner (non inclus) dans l'unité touristique et temps libre. Dans l'après-midi, retour à El Calafate. Pour un parcours aventure, vous pouvez faire le Big Ice ou le Minitrekking, qui vous permettent de vous promener sur le glacier."
+        }       
+    },      
+    {
+        "codigo": 15,
+        "url": "../media/destinos/calafate2.jpg",
+        "titulo": "El Calafate",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Café da manhã. Dia livre para excursões opcionais. Recomendamos uma excursão a uma das estâncias típicas como Nibepo Aike ou Estância Cristina.",
+            "pt":"Café da manhã. Dia livre para excursões opcionais. Recomendamos uma excursão a uma das estâncias típicas como Nibepo Aike ou Estância Cristina.",
+            "en":"Breakfast. Free day for optional excursions. We recommend an excursion to one of the typical estancias such as Nibepo Aike or Estancia Cristina.",
+            "it":"Colazione. Giornata libera per escursioni facoltative. Consigliamo un'escursione in una delle tipiche estancias come Nibepo Aike o Estancia Cristina.",
+            "fr":"Déjeuner. Journée libre pour excursions facultatives. Nous vous recommandons une excursion dans l'une des estancias typiques telles que Nibepo Aike ou Estancia Cristina."
+        }       
+    },      
+    {
+        "codigo": 16,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "El Calafate / Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Buenos Aires. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 17,
+        "url": "../media/destinos/pym2.jpg",
+        "titulo": "Buenos Aires / Trelew / Puerto Madryn",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado en servicio privado al aeropuerto para tomar el vuelo con destino a Trelew. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Trelew. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Trelew. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Trelew. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Trelew. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 18,
+        "url": "../media/destinos/pym3.jpg",
+        "titulo": "Puerto Madryn",
+        "subtitulo": "Peninsula Valdés",
+        "detalle": 
+        {
+            "es":"Desayuno Comenzará la excursión de día completo a Península Valdés. El pequeño y pintoresco poblado de Puerto Pirámide ofrece la posibilidad de embarcarse en una navegación de avistaje de ballenas (de mayo a septiembre). Luego del avistaje realizarás distintas paradas en puntos estratégicos de la península donde podrás observar lobos marinos, guanacos, pingüinos y orcas entre otros animales marinos. Regreso al Hotel por la tarde. Posibilidad de almorzar en restaurante típico (opcional).",
+            "pt":"Café da Manhã Começa a excursão de dia inteiro à Península Valdés. A pequena e pitoresca localidade de Puerto Pirámide oferece a possibilidade de embarcar numa navegação de avistamento de baleias (de maio a setembro). Após o avistamento, você fará diversas paradas em pontos estratégicos da península onde poderá observar leões marinhos, guanacos, pingüins e orcas entre outros animais marinhos. Retorno ao Hotel pela tarde. Possibilidade de almoçar em restaurante típico (opcional).",
+            "en":"Breakfast The full day excursion to Peninsula Valdes will begin. The small and picturesque town of Puerto Pirámide offers the possibility of embarking on a whale watching navigation (from May to September). After the sighting, you will make different stops at strategic points on the peninsula where you can observe sea lions, guanacos, penguins and killer whales among other marine animals. Return to the Hotel in the afternoon. Possibility of having lunch in a typical restaurant (optional).",
+            "it":"Colazione Inizierà l'escursione di un'intera giornata alla Penisola Valdés. La piccola e pittoresca cittadina di Puerto Pirámide offre la possibilità di intraprendere una navigazione di whale watching (da maggio a settembre). Dopo l'avvistamento, farai diverse soste in punti strategici della penisola dove potrai osservare leoni marini, guanachi, pinguini e orche tra gli altri animali marini. Rientro in Hotel nel pomeriggio. Possibilità di pranzare in un ristorante tipico (facoltativo).",
+            "fr":"Petit-déjeuner L'excursion d'une journée à la péninsule de Valdés commencera. La petite ville pittoresque de Puerto Pirámide offre la possibilité de se lancer dans une navigation d'observation des baleines (de mai à septembre). Après l'observation, vous ferez différents arrêts à des points stratégiques de la péninsule où vous pourrez observer des lions de mer, des guanacos, des pingouins et des orques parmi d'autres animaux marins. Retour à l'hôtel dans l'après-midi. Possibilité de déjeuner dans un restaurant typique (facultatif)."
+        }       
+    },      
+    {
+        "codigo": 19,
+        "url": "../media/destinos/pym1.jpg",
+        "titulo": "Puerto Madryn",
+        "subtitulo": "Punta Tombo",
+        "detalle": 
+        {
+            "es":"Luego del desayuno, comenzará la excursión de día completo a la Pingüinera de Punta Tombo. Situada al sur de Puerto Madryn, Punta Tombo es la mayor colonia de Pingüinos de Magallanes de Sudamérica, con más de 200,000 parejas reproductivas que entre Septiembre y Febrero crían a sus crías en esta reserva. Podrás caminar entre estas graciosas criaturas. Se hará una breve visita de Trelew y Gaiman antes de regresar al hotel por la tarde.",
+            "pt":"Após o café da manhã, a excursão de dia inteiro à Colônia de Pinguins de Punta Tombo começará. Localizada ao sul de Puerto Madryn, Punta Tombo é a maior colônia de pingüins de Magalhães da América do Sul, com mais de 200.000 casais reprodutivos que criam seus filhotes nesta reserva entre setembro e fevereiro. Você poderá andar entre essas criaturas engraçadas. Haverá uma breve visita a Trelew e Gaiman antes de retornar ao hotel à tarde.",
+            "en":"After breakfast, the full day excursion to the Punta Tombo Penguin Colony will begin. Located south of Puerto Madryn, Punta Tombo is the largest colony of Magellanic Penguins in South America, with more than 200,000 reproductive pairs that raise their young in this reserve between September and February. You will be able to walk among these funny creatures. There will be a brief visit to Trelew and Gaiman before returning to the hotel in the afternoon.",
+            "it":"Dopo la colazione, inizierà l'escursione di un'intera giornata alla colonia di pinguini di Punta Tombo. Situata a sud di Puerto Madryn, Punta Tombo è la più grande colonia di pinguini di Magellano del Sud America, con oltre 200.000 coppie riproduttive che allevano i loro piccoli in questa riserva tra settembre e febbraio. Potrai camminare tra queste simpatiche creature. Ci sarà una breve visita a Trelew e Gaiman prima di tornare in hotel nel pomeriggio.",
+            "fr":"Après le petit-déjeuner, l'excursion d'une journée complète à la colonie de manchots de Punta Tombo commencera. Située au sud de Puerto Madryn, Punta Tombo est la plus grande colonie de manchots de Magellan en Amérique du Sud, avec plus de 200 000 couples reproducteurs qui élèvent leurs petits dans cette réserve entre septembre et février. Vous pourrez vous promener parmi ces drôles de créatures. Il y aura une brève visite à Trelew et Gaiman avant de retourner à l'hôtel dans l'après-midi."
+        }       
+    },      
+    {
+        "codigo": 20,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "Puerto Madryn / Trelew / Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Buenos Aires. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 21,
+        "url": "../media/destinos/mendoza1.jpg",
+        "titulo": "Buenos Aires / Mendoza",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Mendoza. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Mendoza. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Mendoza. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Mendoza. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Mendoza. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 22,
+        "url": "../media/destinos/mendoza2.jpg",
+        "titulo": "Mendoza",
+        "subtitulo": "Excursión alta montaña",
+        "detalle": 
+        {
+            "es":"Desayuno. Por la mañana se realizará la excursión hacia Alta Montaña. La misma tiene una duración de jornada completa. El recorrido comienza por Ruta Nacional 7, visitando pueblos de Montaña como Potrerillos, Uspallata, Penitentes, Puente del Inca y Las Cuevas. A poca distancia de la frontera, se encuentra el mirador natural que permite apreciar el esplendor del cerro Aconcagua. La provincia de Mendoza se caracteriza por tener buen clima todo el año, sin embargo, te recomendamos llevar siempre una campera y buzo abrigado, aunque haya temperaturas elevadas y sol, debido a que, en el recorrido de Alta Montaña el frío de sus elevadas cumbres se puede intensificar de un momento a otro. Por la tarde regreso al hotel.",
+            "pt":"Café da manhã. Pela manhã será realizada a excursão a Alta Montaña. Tem duração integral. O passeio começa na Rota Nacional 7, visitando cidades de montanha como Potrerillos, Uspallata, Penitentes, Puente del Inca e Las Cuevas. A uma curta distância da fronteira, encontra-se o mirante natural que permite apreciar o esplendor do Monte Aconcágua. A província de Mendoza se caracteriza por ter um bom clima o ano todo, porém, recomendamos que você use sempre um casaco e um mergulhador aquecido, mesmo que haja altas temperaturas e sol, pois, na rota da Alta Montanha, o frio do seu. picos altos pode se intensificar de um momento para o outro. À tarde, retorno ao hotel.",
+            "en":"Breakfast. In the morning the excursion to Alta Montaña will take place. It has a full-time duration. The tour begins on National Route 7, visiting mountain towns such as Potrerillos, Uspallata, Penitentes, Puente del Inca and Las Cuevas. A short distance from the border, is the natural viewpoint that allows you to appreciate the splendor of Mount Aconcagua. The province of Mendoza is characterized by having good weather all year round, however, we recommend that you always wear a jacket and a warm diver, even if there are high temperatures and sun, because, on the High Mountain route, the cold of its high peaks it can intensify from one moment to the next. In the afternoon, I return to the hotel.",
+            "it":"Colazione. In mattinata si svolgerà l'escursione in Alta Montagna. Ha una durata a tempo pieno. Il tour inizia sulla Strada Nazionale 7, visitando città di montagna come Potrerillos, Uspallata, Penitentes, Puente del Inca e Las Cuevas. A poca distanza dal confine, si trova il belvedere naturale che permette di apprezzare lo splendore del Monte Aconcagua. La provincia di Mendoza è caratterizzata dal bel tempo tutto l'anno, tuttavia, si consiglia di indossare sempre una giacca e un subacqueo caldo, anche se ci sono temperature elevate e sole, perché, sul percorso di Alta Montagna, il freddo dei suoi picchi elevati può intensificarsi da un momento all'altro. Nel pomeriggio rientro in hotel.",
+            "fr":"Déjeuner. Dans la matinée, l'excursion à Alta Montaña aura lieu. Il a une durée à temps plein. La visite commence sur la route nationale 7, en visitant des villes de montagne telles que Potrerillos, Uspallata, Penitentes, Puente del Inca et Las Cuevas. A une courte distance de la frontière, se trouve le point de vue naturel qui vous permet d'apprécier la splendeur du mont Aconcagua. La province de Mendoza se caractérise par le beau temps toute l'année, cependant, nous vous recommandons de toujours porter une veste et un plongeur chaud, même s'il y a des températures élevées et du soleil, car, sur la route de haute montagne, le froid de son des pics élevés, elle peut s'intensifier d'un instant à l'autre. L'après-midi, je retourne à l'hôtel."
+        }       
+    },      
+    {
+        "codigo": 23,
+        "url": "../media/destinos/mendoza3.jpg",
+        "titulo": "Mendoza",
+        "subtitulo": "Circuito de Bodegas",
+        "detalle": 
+        {
+            "es":"Desayuno. Y mañana libre para realizar actividades a elección, por la tarde lo pasaran a buscar por el hotel para realizar la visita a las bodegas. Visitarás dos bodegas, ya sea en la zona de Luján o bien de Maipú, donde podrás conocer el proceso de elaboración de vino industrial y artesanal. También visitarás la fábrica de aceite de oliva y la iglesia de la Carrodilla, donde se encuentra la virgen patrona de los viñedos. Las posibles bodegas a visitar son: Bodegas López, Bodega Vistandes, Bodega Dante Robino, Bodega Weinert o Cavas de don Arturo. Dependerá de la disponibilidad de cada una de ellas. Y también visitarás la aceitera PASRAI. La excursión tiene una duración de mediodía comenzando la misma alrededor de las 14.30 h y regresando por la tarde – noche al hotel para luego cenar y descansar.",
+            "pt":"Café da manhã. E manhã livre para atividades de sua escolha, à tarde te buscarão no hotel para visitar as vinícolas. Você visitará duas vinícolas, tanto na área de Luján quanto na de Maipú, onde poderá aprender sobre o processo de fabricação do vinho industrial e artesanal. Você também visitará a fábrica de azeite e a igreja da Carrodilla, onde está localizada a virgem padroeira dos vinhedos. As vinícolas que podem ser visitadas são: Vinícola López, Vinícola Vistandes, Vinícola Dante Robino, Vinícola Weinert ou Cavas de don Arturo. Dependerá da disponibilidade de cada um deles. E você também vai visitar a petroleira PASRAI. A excursão dura ao meio-dia, com início por volta das 14h30 e retorno à tarde - noite ao hotel para jantar e descanso.",
+            "en":"Breakfast. And free morning to carry out activities of your choice, in the afternoon they will pick you up at the hotel to visit the wineries. You will visit two wineries, either in the Luján or Maipú area, where you can learn about the process of making industrial and artisanal wine. You will also visit the olive oil factory and the Carrodilla church, where the patron virgin of the vineyards is located. Possible wineries to visit are: López Winery, Vistandes Winery, Dante Robino Winery, Weinert Winery or Cavas de don Arturo. It will depend on the availability of each one of them. And you will also visit the PASRAI oil company. The excursion lasts for noon, starting at around 2:30 p.m. and returning in the afternoon - night to the hotel to later have dinner and rest.",
+            "it":"Colazione. E mattinata libera per svolgere attività a vostra scelta, nel pomeriggio vi verranno a prendere in hotel per visitare le cantine. Visiterai due cantine, nella zona di Luján o Maipú, dove potrai conoscere il processo di produzione del vino industriale e artigianale. Visiterete anche la fabbrica di olio d'oliva e la chiesa di Carrodilla, dove si trova la patrona dei vigneti. Possibili cantine da visitare sono: Cantina López, Cantina Vistandes, Cantina Dante Robino, Cantina Weinert o Cavas de don Arturo. Dipenderà dalla disponibilità di ciascuno di essi. E visiterai anche la compagnia petrolifera PASRAI. L'escursione dura mezzogiorno, con partenza intorno alle 14:30 e rientro nel pomeriggio - notte in hotel per poi cenare e riposarsi.",
+            "fr":"Déjeuner. Et matinée libre pour réaliser les activités de votre choix, l'après-midi ils viendront vous chercher à l'hôtel pour visiter les caves. Vous visiterez deux établissements vinicoles, situés dans la région de Luján ou de Maipú, où vous pourrez en apprendre davantage sur le processus de fabrication du vin industriel et artisanal. Vous visiterez également l'usine d'huile d'olive et l'église de Carrodilla, où se trouve la vierge patronne des vignes. Les établissements vinicoles possibles à visiter sont : López Winery, Vistandes Winery, Dante Robino Winery, Weinert Winery ou Cavas de don Arturo. Cela dépendra de la disponibilité de chacun d'entre eux. Et vous visiterez également la compagnie pétrolière PASRAI. L'excursion dure midi, commence vers 14h30 et retourne dans l'après-midi - nuit à l'hôtel pour ensuite dîner et se reposer."
+        }       
+    },      
+    {
+        "codigo": 24,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "Mendoza / Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Buenos Aires. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 25,
+        "url": "../media/destinos/bariloche1.jpg",
+        "titulo": "Mendoza / Bariloche",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a San Carlos de Bariloche. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Bariloche. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Bariloche. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Bariloche. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Bariloche. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 26,
+        "url": "../media/destinos/bariloche1.jpg",
+        "titulo": "Buenos Aires / Bariloche",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a San Carlos de Bariloche. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a San Carlos de Bariloche. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to San Carlos de Bariloche. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per San Carlos de Bariloche. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers San Carlos de Bariloche. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 27,
+        "url": "../media/destinos/bariloche2.jpg",
+        "titulo": "Bariloche",
+        "subtitulo": "Isla Victoria y Bosque de Arrayanes",
+        "detalle": 
+        {
+            "es":"Desayuno. Partiendo desde Puerto Pañuelo, tras una hora de navegación, se arriba a la península de Quetrihue, en donde se encuentra el legendario bosque de arrayanes. Ubicado dentro del Parque Nacional Los Arrayanes, los esperan 12 kilómetros de sendero con paisajes únicos. Luego de recorrer este escenario incomparable, se navega hacia Puerto Anchorena, en la Isla Victoria, donde encontrarás una flora de gran atractivo visual. Recorriendo los senderos de esta hermosa isla se llega hasta Playa del Toro, en donde se pueden observar las pinturas rupestres hechas por los pueblos originarios que habitaban en esta zona.",
+            "pt":"Café da manhã. Saindo de Puerto Pañuelo, depois de uma hora de navegação, chegamos à península de Quetrihue, onde se encontra a lendária floresta de murta. Localizado dentro do Parque Nacional Los Arrayanes, esperam por você 12 quilômetros de caminhos com paisagens únicas. Depois de percorrer este cenário incomparável, você navegará até Puerto Anchorena, na Ilha Victoria, onde encontrará uma flora de grande apelo visual. Caminhando pelas trilhas desta bela ilha, chega-se a Playa del Toro, onde se podem ver as pinturas rupestres dos povos originários que viveram nesta área.",
+            "en":"Breakfast. Leaving from Puerto Pañuelo, after an hour of navigation, we arrive at the Quetrihue peninsula, where the legendary myrtle forest is located. Located within the Los Arrayanes National Park, 12 kilometers of path with unique landscapes await you. After touring this incomparable setting, you sail to Puerto Anchorena, on Victoria Island, where you will find a flora of great visual appeal. Walking the trails of this beautiful island, you reach Playa del Toro, where you can see the cave paintings made by the original peoples who lived in this area.",
+            "it":"Colazione. Partendo da Puerto Pañuelo, dopo un'ora di navigazione, arriviamo alla penisola di Quetrihue, dove si trova la leggendaria foresta di mirto. Situato all'interno del Parco Nazionale Los Arrayanes, ti aspettano 12 chilometri di percorso con paesaggi unici. Dopo aver visitato questo ambiente incomparabile, navigherai verso Puerto Anchorena, sull'isola Victoria, dove troverai una flora di grande fascino visivo. Percorrendo i sentieri di questa bellissima isola, si raggiunge Playa del Toro, dove si possono ammirare le pitture rupestri realizzate dalle popolazioni originarie che vivevano in questa zona.",
+            "fr":"Déjeuner. Au départ de Puerto Pañuelo, après une heure de navigation, nous arrivons à la péninsule de Quetrihue, où se trouve la légendaire forêt de myrtes. Situé au sein du Parc National Los Arrayanes, 12 kilomètres de sentiers aux paysages uniques vous attendent. Après avoir parcouru ce cadre incomparable, vous naviguez jusqu'à Puerto Anchorena, sur l'île Victoria, où vous trouverez une flore d'un grand attrait visuel. En parcourant les sentiers de cette île magnifique, vous atteignez Playa del Toro, où vous pourrez voir les peintures rupestres réalisées par les peuples d'origine qui vivaient dans cette région."
+        }       
+    },      
+    {
+        "codigo": 28,
+        "url": "../media/destinos/bariloche3.jpg",
+        "titulo": "Bariloche",
+        "subtitulo": "Circuito chico",
+        "detalle": 
+        {
+            "es":"Desayuno. El circuito chico es un recorrido de medio día permite conocer la ciudad y sus alrededores, entre ellos, la península de San Pedro y el Puerto Bueno. Luego de recorrer la península, se arriba a la Villa Llao Llao, en el km 23. Allí encontrarás un mirador excepcional y otros grandes atractivos de la zona: el Hotel Llao Llao, con su imponente marco natural, el parque municipal Llao Llao, donde podrás realizar tranquilas caminatas por el bosque y la capilla San Eduardo. Muy cerca de ese lugar se encuentra Puerto Pañuelo, punto de partida de las excursiones lacustres. Nos detendremos en Cerro Campanario para subir con aerosillas hasta la cumbre y disfrutar de la mejor vista panorámica de la región, de 360 grados. Ya dejando atrás la península, en el km 33, el camino cruza el puente del arroyo Angostura. Desde este lugar parte un desvío que permite continuar hacia la zona de Bahía López, donde se imponen los paredones rocosos de los cerros López y Capilla.",
+            "pt":"Café da manhã. O pequeno circuito é um passeio de meio dia que permite conhecer a cidade e seus arredores, incluindo a península de San Pedro e Puerto Bueno. Depois de percorrer a península, chegará a Villa Llao Llao, no km 23. Lá você encontrará um mirante excepcional e outras grandes atrações da região: o Hotel Llao Llao, com seu imponente cenário natural, o parque municipal Llao Llao, onde Você pode fazer caminhadas tranquilas pela floresta e pela capela de San Eduardo. Muito perto desse lugar está Puerto Pañuelo, ponto de partida para passeios lacustres. Faremos uma parada no Cerro Campanario para subir em teleférico até o cume e desfrutar da melhor vista panorâmica 360 graus da região. Saindo da península, no km 33, o caminho atravessa a ponte do córrego Angostura. A partir deste lugar há um desvio que permite continuar até a região da Bahía López, onde se impõem as paredes rochosas dos morros López e Capilla.",
+            "en":"Breakfast. The small circuit is a half-day tour that allows you to get to know the city and its surroundings, including the San Pedro peninsula and Puerto Bueno. After touring the peninsula, you will arrive at Villa Llao Llao, at km 23. There you will find an exceptional viewpoint and other great attractions in the area: the Llao Llao Hotel, with its imposing natural setting, the Llao Llao municipal park, where You can take quiet walks through the forest and the San Eduardo chapel. Very close to that place is Puerto Pañuelo, the starting point for lake excursions. We will stop at Cerro Campanario to go up with chairlifts to the summit and enjoy the best 360-degree panoramic view of the region. Leaving the peninsula behind, at km 33, the path crosses the Angostura stream bridge. From this place there is a detour that allows you to continue towards the Bahía López area, where the rocky walls of the López and Capilla hills are imposed.",
+            "it":"Colazione. Il piccolo circuito è un tour di mezza giornata che permette di conoscere la città e i suoi dintorni, compresa la penisola di San Pedro e Puerto Bueno. Dopo aver girato la penisola, arriverete a Villa Llao Llao, al km 23. Lì troverete un punto panoramico eccezionale e altre grandi attrazioni della zona: il Llao Llao Hotel, con il suo imponente scenario naturale, il parco municipale di Llao Llao, dove Si possono fare tranquille passeggiate attraverso il bosco e la cappella di San Eduardo. Molto vicino a quel luogo si trova Puerto Pañuelo, il punto di partenza per le escursioni sul lago. Ci fermeremo al Cerro Campanario per salire con le seggiovie in vetta e godere del miglior panorama a 360 gradi della regione. Lasciandosi alle spalle la penisola, al km 33, il sentiero attraversa il ponte sul torrente Angostura. Da questo luogo c'è una deviazione che permette di proseguire verso la zona di Bahía López, dove si impongono le pareti rocciose delle colline López e Capilla.",
+            "fr":"Déjeuner. Le petit circuit est une excursion d'une demi-journée qui permet de découvrir la ville et ses environs, notamment la péninsule de San Pedro et Puerto Bueno. Après avoir fait le tour de la presqu'île, vous arriverez à Villa Llao Llao, au km 23. Vous y trouverez un point de vue exceptionnel et d'autres grandes attractions de la région : l'hôtel Llao Llao, avec son cadre naturel grandiose, le parc municipal Llao Llao, où Vous pouvez faire des promenades tranquilles à travers la forêt et la chapelle San Eduardo. Tout près de cet endroit se trouve Puerto Pañuelo, le point de départ des excursions sur le lac. Nous nous arrêterons au Cerro Campanario pour monter avec des télésièges jusqu'au sommet et profiter de la meilleure vue panoramique à 360 degrés de la région. En quittant la presqu'île, au km 33, le sentier traverse le pont du ruisseau Angostura. De cet endroit, il y a un détour qui vous permet de continuer vers la région de Bahía López, où s'imposent les parois rocheuses des collines López et Capilla."
+        }       
+    },      
+    {
+        "codigo": 29,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "Bariloche / Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Buenos Aires. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 30,
+        "url": "../media/destinos/syj5.jpg",
+        "titulo": "Buenos Aires / Salta",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Salta. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Salta. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Salta. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Salta. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 31,
+        "url": "../media/destinos/syj3.jpg",
+        "titulo": "Salta",
+        "subtitulo": "Cafayate",
+        "detalle": 
+        {
+            "es":"Desayuno. Por la mañana salida hacia Cafayate desde Salta. Se toma dirección hacia el sur por las impresionantes tierras de formaciones rocosas y acantilados teñidos de rojo. Luego se continúa por la ruta Nacional 68 llegando a Cafayate, la ciudad más joven de los Valles Calchaquíes reconocida a nivel internacional por las cepas de sus vinos. Después, nos dirigimos a Quebrada de las Conchas, un cañón con rocas con formas curiosas, erosionadas durante siglos por el paso del agua y los fuertes vientos. Se puede visitar un viñedo y degustar algunos de los mejores vinos que ofrece la región, incluido el Torrontés. Tras la cata, se regresa de nuevo a Salta por la Quebrada de las Conchas. Noche en Salta.",
+            "pt":"Café da manhã. Pela manhã saída para Cafayate desde Salta. Você segue para o sul através das impressionantes terras de formações rochosas e penhascos tingidos de vermelho. Em seguida, continuamos pela Rota Nacional 68, chegando a Cafayate, a cidade mais jovem dos Vales Calchaquí, reconhecida internacionalmente pelas variedades de seus vinhos. Em seguida, seguimos para a Quebrada de las Conchas, um desfiladeiro com rochas de formas curiosas, erodidas ao longo dos séculos pela passagem das águas e ventos fortes. Pode visitar uma vinha e provar alguns dos melhores vinhos que a região tem para oferecer, incluindo Torrontés. Após a degustação, regressamos a Salta pela Quebrada de las Conchas. Noite em Salta.",
+            "en":"Breakfast. In the morning departure to Cafayate from Salta. You head south through the impressive lands of rock formations and cliffs dyed red. Then we continue along National Route 68, arriving at Cafayate, the youngest city in the Calchaquí Valleys, internationally recognized for the strains of its wines. Afterwards, we go to Quebrada de las Conchas, a canyon with rocks with curious shapes, eroded over centuries by the passage of water and strong winds. You can visit a vineyard and taste some of the best wines the region has to offer, including Torrontés. After the tasting, we return to Salta through the Quebrada de las Conchas. Night in Salta.",
+            "it":"Colazione. In mattinata partenza per Cafayate da Salta. Ti dirigi a sud attraverso le imponenti terre di formazioni rocciose e scogliere tinte di rosso. Quindi proseguiamo lungo la Strada Nazionale 68, arrivando a Cafayate, la città più giovane delle Valli Calchaquí, riconosciuta a livello internazionale per i ceppi dei suoi vini. Successivamente, andiamo a Quebrada de las Conchas, un canyon con rocce dalle forme curiose, erose nei secoli dal passaggio dell'acqua e dai forti venti. Puoi visitare un vigneto e degustare alcuni dei migliori vini che la regione ha da offrire, tra cui il Torrontés. Dopo la degustazione, torniamo a Salta attraverso la Quebrada de las Conchas. Notte a Salta.",
+            "fr":"Déjeuner. Le matin départ pour Cafayate depuis Salta. Vous vous dirigez vers le sud à travers les terres impressionnantes de formations rocheuses et de falaises teintes en rouge. Ensuite, nous continuons le long de la route nationale 68 pour arriver à Cafayate, la ville la plus jeune des vallées Calchaquí, reconnue internationalement pour les souches de ses vins. Ensuite, nous nous rendons à la Quebrada de las Conchas, un canyon aux rochers aux formes curieuses, érodé au fil des siècles par le passage de l'eau et des vents violents. Vous pouvez visiter un vignoble et déguster quelques-uns des meilleurs vins de la région, dont les Torrontés. Après la dégustation, nous retournons à Salta par la Quebrada de las Conchas. Nuit à Salta."
+        }       
+    },      
+    {
+        "codigo": 32,
+        "url": "../media/destinos/syj2.jpg",
+        "titulo": "Salta / Jujuy / Salta",
+        "subtitulo": "Quebrada de Humahuaca",
+        "detalle": 
+        {
+            "es":"Desayuno. Conoceremos la Quebrada de Humahuaca, declarado Patrimonio Natural y Cultural de la Humanidad por la UNESCO, título que se adjudicó por su increíble belleza natural y coloridos cerros. Disfrutaremos los singulares paisajes de esta quebrada, y visitaremos el pueblo de Purmamarca, donde tendremos una privilegiada vista del Cerro de los Siete Colores y la feria de artesanos. Además, visitaremos el pueblo de Tilcara y las ruinas del Pucará de Tilcara. Continuaremos viaje por ruta 9, donde arribaremos a la ciudad de Humahuaca, conocida por sus angostas calles y sus particulares casas, de paredes de adobe, techos de caña y barro. El pueblo de Humahuaca, corazón mismo de la quebrada, está lleno de atractivos naturales, históricos y culturales. Luego de recorrer el pueblo de Humahuaca se regresa a San Salvador de Jujuy, donde se realiza una breve visita a la ciudad, la Catedral, Plaza Belgrano, pasando por el dique la Ciénaga, dique Campo Alegre, La Caldera, Vaqueros. Regreso a Salta.",
+            "pt":"Café da manhã. Visitaremos a Quebrada de Humahuaca, declarada Patrimônio Natural e Cultural da Humanidade pela UNESCO, título concedido por sua incrível beleza natural e colinas coloridas. Desfrutaremos das paisagens únicas deste desfiladeiro e visitaremos a localidade de Purmamarca, onde teremos uma vista privilegiada do Cerro de los Siete Colores e da feira de artesanato. Além disso, visitaremos a cidade de Tilcara e as ruínas do Pucará de Tilcara. Continuaremos nossa jornada pela rota 9, onde chegaremos à cidade de Humahuaca, conhecida por suas ruas estreitas e suas casas particulares, com paredes de adobe, tetos de cana e taipa. A cidade de Humahuaca, no coração do riacho, é repleta de atrativos naturais, históricos e culturais. Depois de percorrer a cidade de Humahuaca, retornamos a San Salvador de Jujuy, onde faremos uma breve visita à cidade, a Catedral, Plaza Belgrano, passando pela represa Ciénaga, represa Campo Alegre, La Caldera, Vaqueros. Volte para Salta.",
+            "en":"Breakfast. We will visit the Quebrada de Humahuaca, declared a Natural and Cultural Heritage of Humanity by UNESCO, a title that was awarded for its incredible natural beauty and colorful hills. We will enjoy the unique landscapes of this creek, and we will visit the town of Purmamarca, where we will have a privileged view of the Cerro de los Siete Colores and the artisan fair. In addition, we will visit the town of Tilcara and the ruins of the Pucará de Tilcara. We will continue our journey along route 9, where we will arrive at the city of Humahuaca, known for its narrow streets and its particular houses, with adobe walls, cane and mud roofs. The town of Humahuaca, the very heart of the creek, is full of natural, historical and cultural attractions. After touring the town of Humahuaca, we return to San Salvador de Jujuy, where we make a brief visit to the city, the Cathedral, Plaza Belgrano, passing through the Ciénaga dam, Campo Alegre dam, La Caldera, Vaqueros. Return to Salta.",
+            "it":"Colazione. Visiteremo la Quebrada de Humahuaca, dichiarata Patrimonio Naturale e Culturale dell'Umanità dall'UNESCO, titolo che è stato assegnato per la sua incredibile bellezza naturale e le sue colline colorate. Godremo dei paesaggi unici di questo burrone e visiteremo la città di Purmamarca, dove avremo una vista privilegiata del Cerro de los Siete Colores e della fiera dell'artigianato. Inoltre, visiteremo la città di Tilcara e le rovine del Pucará de Tilcara. Continueremo il nostro viaggio lungo il percorso 9, dove arriveremo alla città di Humahuaca, nota per i suoi vicoli e le sue case particolari, con muri di adobe, tetti di canna e fango. La città di Humahuaca, il vero cuore del torrente, è ricca di attrazioni naturali, storiche e culturali. Dopo aver visitato la città di Humahuaca, torniamo a San Salvador de Jujuy, dove facciamo una breve visita alla città, la Cattedrale, Plaza Belgrano, passando per la diga Ciénaga, la diga di Campo Alegre, La Caldera, Vaqueros. Ritorno a Salta.",
+            "fr":"Déjeuner. Nous visiterons la Quebrada de Humahuaca, déclarée patrimoine naturel et culturel de l'humanité par l'UNESCO, un titre décerné pour son incroyable beauté naturelle et ses collines colorées. Nous profiterons des paysages uniques de ce ravin et visiterons la ville de Purmamarca, où nous aurons une vue privilégiée sur le Cerro de los Siete Colores et la foire artisanale. De plus, nous visiterons la ville de Tilcara et les ruines du Pucará de Tilcara. Nous continuerons notre voyage le long de la route 9, où nous arriverons à la ville de Humahuaca, connue pour ses rues étroites et ses maisons particulières, avec des murs en pisé, des toits de canne et de boue. La ville de Humahuaca, au cœur même de la crique, regorge d'attractions naturelles, historiques et culturelles. Après avoir visité la ville de Humahuaca, nous retournons à San Salvador de Jujuy, où nous faisons une brève visite de la ville, de la cathédrale, de la Plaza Belgrano, en passant par le barrage de Ciénaga, le barrage de Campo Alegre, La Caldera, Vaqueros. Retour à Salta."
+        }       
+    },      
+    {
+        "codigo": 33,
+        "url": "../media/destinos/dia4bsas.jpg",
+        "titulo": "Salta / Buenos Aires",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Buenos Aires. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Buenos Aires. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Buenos Aires. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Buenos Aires. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Buenos Aires. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 34,
+        "url": "../media/destinos/chalten.jpg",
+        "titulo": "El Calafate / El Chalten",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. Por la mañana traslado por su cuenta a la terminal de bus de El Calafate para partir al El Chalten. Sugerimos acercase a la oficina de guardaparques para obtener información de horarios y actividades complementarias del destino",
+            "pt":"Café da manhã. Pela manhã, traslado por conta própria ao terminal de ônibus de El Calafate para embarque com destino a El Chalten. Sugerimos entrar em contato com o escritório do guarda-parques para obter informações sobre horários e atividades complementares do destino",
+            "en":"Breakfast. In the morning, transfer on your own to the El Calafate bus terminal to depart for El Chalten. We suggest approaching the park rangers office to obtain information on schedules and complementary activities of the destination",
+            "it":"Colazione. Al mattino, trasferimento da soli al terminal degli autobus di El Calafate per la partenza per El Chalten. Suggeriamo di rivolgersi all'ufficio dei guardaparco per avere informazioni su orari e attività complementari della destinazione",
+            "fr":"Déjeuner. Dans la matinée, transfert par vos propres moyens à la gare routière d'El Calafate pour partir pour El Chalten. Nous vous suggérons de vous rapprocher du bureau des gardes du parc pour obtenir des informations sur les horaires et les activités complémentaires de la destination"
+        }       
+    },      
+    {
+        "codigo": 35,
+        "url": "../media/destinos/chalten2.jpg",
+        "titulo": "El Chalten",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. Día libre para actividades personales, recomendamos tomar el camino que lleva a los pies del Cerro Fitz Roy, el Cerro Torre y las numerosas agujas de granito que rodean a ambos. Desde el chalten también podremos conocer el glaciar Viedma, el más grande en extensión de nuestro país. También podemos hacer torres del Paine, estancias patagónicas, y alguna excursión de medio día como balcones del Calafate.",
+            "pt":"Café da manhã. Dia livre para atividades pessoais, recomendamos percorrer o caminho que leva ao sopé do Cerro Fitz Roy, ao Cerro Torre e às numerosas torres de granito que os rodeiam. Do chalten também se avista o glaciar Viedma, o maior em extensão do nosso país. Também podemos fazer Torres del Paine, fazendas patagônicas e algumas excursões de meio dia como Balcones del Calafate.",
+            "en":"Breakfast. Free day for personal activities, we recommend taking the path that leads to the foot of Cerro Fitz Roy, Cerro Torre and the many granite spiers that surround both. From the chalten we will also be able to see the Viedma glacier, the largest in extension in our country. We can also do Torres del Paine, Patagonian ranches, and some half-day excursions like Balcones del Calafate.",
+            "it":"Colazione. Giornata libera per attività personali, si consiglia di percorrere il sentiero che porta ai piedi del Cerro Fitz Roy, del Cerro Torre e delle numerose guglie granitiche che circondano entrambi. Dal chalten possiamo anche vedere il ghiacciaio Viedma, il più grande per estensione nel nostro paese. Possiamo anche fare Torres del Paine, ranch della Patagonia e alcune escursioni di mezza giornata come Balcones del Calafate.",
+            "fr":"Déjeuner. Journée libre pour des activités personnelles, nous vous recommandons de prendre le chemin qui mène au pied du Cerro Fitz Roy, du Cerro Torre et des nombreuses flèches de granit qui les entourent. Du chalten on peut aussi voir le glacier Viedma, le plus grand en extension de notre pays. Nous pouvons également faire Torres del Paine, des ranchs de Patagonie et quelques excursions d'une demi-journée comme Balcones del Calafate."
+        }       
+    },      
+    {
+        "codigo": 36,
+        "url": "../media/destinos/calafate2.jpg",
+        "titulo": "El Chalten / El Calafate",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. Dia libre. Por la tarde tomarás el bus de regreso a El Calafate a las 18 hs. Llegarás a Calafate por la noche y te trasladarás al Hotel.",
+            "pt":"Café da manhã. Dia livre. À tarde, você pegará o ônibus de volta a El Calafate às 18h. Você chegará em Calafate à noite e será transferido para o Hotel.",
+            "en":"Breakfast. Day off. In the afternoon you will take the bus back to El Calafate at 6 pm. You will arrive in Calafate at night and you will transfer to the Hotel.",
+            "it":"Colazione. Giorno libero. Nel pomeriggio riprenderai l'autobus per El Calafate alle 18:00. Arriverete a Calafate in notturna e trasferimento in Hotel.",
+            "fr":"Déjeuner. Journée libre. Dans l'après-midi, vous reprendrez le bus pour El Calafate à 18h00. Vous arriverez à Calafate dans la nuit et vous serez transféré à l'hôtel."
+        }       
+    },      
+    {
+        "codigo": 37,
+        "url": "../media/destinos/ush1.jpg",
+        "titulo": "Puerto Madryn / Trelew / Ushuaia",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A la hora apropiada, serás trasladado al aeropuerto de Trelew para tomar el vuelo a Ushuaia. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Ushuaia. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Ushuaia. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Ushuaia. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Ushuaia. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 38,
+        "url": "../media/destinos/syj5.jpg",
+        "titulo": "Mendoza / Salta",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Salta. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Salta. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Salta. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Salta. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 39,
+        "url": "../media/destinos/iguazu4.jpg",
+        "titulo": "Salta / Iguazu",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Iguazu. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Iguazú. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Iguazú. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Iguazú. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Iguazú. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 40,
+        "url": "../media/destinos/iguazu4.jpg",
+        "titulo": "Bariloche / Iguazu",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Iguazu. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Iguazú. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Iguazú. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Iguazú. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Iguazú. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 41,
+        "url": "../media/destinos/iguazu4.jpg",
+        "titulo": "Ushuaia / Iguazu",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A la hora apropiada, serás trasladado al aeropuerto para tomar el vuelo a Puerto Iguazú (con escala en Buenos Aires o Córdoba según la disponibilidad de la aerolínea). Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Iguazú. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Iguazú. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Iguazú. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Iguazú. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 42,
+        "url": "../media/destinos/bariloche1.jpg",
+        "titulo": "Ushuaia / Bariloche",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Bariloche. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Bariloche. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Bariloche. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Bariloche. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Bariloche. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    },      
+    {
+        "codigo": 43,
+        "url": "../media/destinos/syj5.jpg",
+        "titulo": "Bariloche / Salta",
+        "subtitulo": "",
+        "detalle": 
+        {
+            "es":"Desayuno. A hora apropiada traslado al aeropuerto para tomar el vuelo con destino a Salta. Llegada al aeropuerto y traslado en servicio regular al hotel seleccionado. Alojamiento. Resto del día libre.",
+            "pt":"Café da manhã. Em horário apropriado, traslado ao aeroporto para embarque no vôo com destino a Salta. Chegada ao aeroporto e traslado em serviço regular ao hotel selecionado. Alojamento. Resto do dia livre.",
+            "en":"Breakfast. At the appropriate time, transfer to the airport to take the flight to Salta. Arrival at the airport and transfer in regular service to the selected hotel. Accommodation. Rest of the day free.",
+            "it":"Colazione. Al momento opportuno, trasferimento in aeroporto per prendere il volo per Salta. Arrivo in aeroporto e trasferimento in servizio regolare all'hotel prescelto. Struttura ricettiva. Resto della giornata libero.",
+            "fr":"Déjeuner. Au moment opportun, transfert à l'aéroport pour prendre le vol vers Salta. Arrivée à l'aéroport et transfert en service régulier à l'hôtel sélectionné. Hébergement. Reste de la journée libre."
+        }       
+    }         
+]

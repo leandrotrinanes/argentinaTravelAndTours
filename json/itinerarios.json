@@ -1,0 +1,194 @@
+[
+    {
+        "codigo" : 1,
+        "categoria": "",
+        "dias": 4,
+        "destinos": "Buenos Aires",
+        "itinerario": [1, 2, 3, 4]
+
+    },
+    {
+        "codigo" : 2,
+        "categoria": "",
+        "dias": 6,
+        "destinos": "Buenos Aires / Iguazú",
+        "itinerario": [1, 2, 5, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 3,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Ushuaia",
+        "itinerario": [1, 2, 8, 9, 10, 11, 4]
+
+    },
+    {
+        "codigo" : 4,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Calafate",
+        "itinerario": [1, 2, 13, 14, 15, 16, 4]
+
+    },
+    {
+        "codigo" : 5,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Puerto Madryn",
+        "itinerario": [1, 2, 17, 18, 19, 20, 4]
+
+    },
+    {
+        "codigo" : 6,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Mendoza",
+        "itinerario": [1, 2, 21, 22, 23, 24, 4]
+
+    },
+    {
+        "codigo" : 7,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / Bariloche",
+        "itinerario": [1, 2, 26, 27, 28, 29, 4]
+
+    },
+    {
+        "codigo" : 8,
+        "categoria": "",
+        "dias": 7,
+        "destinos": "Buenos Aires / salta / Jujuy",
+        "itinerario": [1, 2, 30, 31, 32, 33, 4]
+
+    },
+    {
+        "codigo" : 9,
+        "categoria": "",
+        "dias": 9,
+        "destinos": "Buenos Aires / salta y Jujuy / Iguazu",
+        "itinerario": [1, 2, 30, 31, 32, 5, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 10,
+        "categoria": "",
+        "dias": 9,
+        "destinos": "Buenos Aires / Calafate / Iguazu",
+        "itinerario": [1, 2, 13, 14, 15, 5, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 11,
+        "categoria": "",
+        "dias": 9,
+        "destinos": "Buenos Aires / Ushuaia / Iguazu",
+        "itinerario": [1, 2, 8, 9, 10, 5, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 12,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Mendoza / Bariloche ",
+        "itinerario": [1, 2, 21, 22, 23, 25, 27, 28, 29, 4]
+
+    },
+    {
+        "codigo" : 13,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Calafate / Ushuaia ",
+        "itinerario": [1, 2, 13, 14, 15, 12, 9, 10, 11, 4]
+
+    },
+    {
+        "codigo" : 14,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Calafate / El Chalten ",
+        "itinerario": [1, 2, 13, 14, 15, 34, 35, 36, 16, 4]
+
+    },
+    {
+        "codigo" : 15,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Puerto Madryn /Ushuaia",
+        "itinerario": [1, 2, 17, 18, 19, 37, 9, 10, 11, 4]
+
+    },
+    {
+        "codigo" : 16,
+        "categoria": "",
+        "dias": 10,
+        "destinos": "Buenos Aires / Mendoza / Salta y Jujuy",
+        "itinerario": [1, 2, 21, 22, 23, 38, 31, 32, 33, 4]
+
+    },
+    {
+        "codigo" : 17,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "Buenos Aires / Mendoza / Salta y Jujuy / Iguazu",
+        "itinerario": [1, 2, 21, 22, 23, 38, 31, 32, 39, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 18,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "Buenos Aires / Mendoza / Bariloche / Iguazu",
+        "itinerario": [1, 2, 21, 22, 23, 25, 27, 28, 40, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 19,
+        "categoria": "",
+        "dias": 12,
+        "destinos": "Buenos Aires / Calafate / Ushuaia / Iguazu",
+        "itinerario": [1, 2, 13, 14, 15, 12, 9, 10, 41, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 20,
+        "categoria": "",
+        "dias": 13,
+        "destinos": "Buenos Aires / Calafate / El Chalten / Ushuaia",
+        "itinerario": [1, 2, 13, 14, 15, 34, 35, 36, 12, 9, 10, 11, 4]
+
+    },
+    {
+        "codigo" : 21,
+        "categoria": "",
+        "dias": 13,
+        "destinos": "Buenos Aires / Puerto Madryn /Ushuaia / Bariloche",
+        "itinerario": [1, 2, 17, 18, 19, 37, 9, 10, 42, 27, 28, 29, 4]
+
+    },
+    {
+        "codigo" : 22,
+        "categoria": "",
+        "dias": 15,
+        "destinos": "Buenos Aires – Calafate – El Chalten – Ushuaia – Iguazu ",
+        "itinerario": [1, 2, 13, 14, 15, 34, 35, 36, 12, 9, 10, 41, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 23,
+        "categoria": "",
+        "dias": 15,
+        "destinos": "Buenos Aires – Puerto Madryn – Calafate – Ushuaia – Iguazu ",
+        "itinerario": [1, 2, 17, 18, 19, 20, 14, 15, 12, 9, 10, 41, 6, 7, 4]
+
+    },
+    {
+        "codigo" : 24,
+        "categoria": "",
+        "dias": 15,
+        "destinos": "Buenos Aires / Mendoza / Bariloche / Salta y Jujuy / Iguazu",
+        "itinerario": [1, 2, 21, 22, 23, 25, 27, 28, 43, 31, 32, 39, 6, 7, 4]
+
+    }
+]

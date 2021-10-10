@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Ofrecemos paquetes con diversas opciones de destinos y cantidad de dias según las preferencias y presupuestos de nuestros clientes">
+    <meta name="keywords" content="PAQUETES, CIRCUITOS, ITINERARIOS, CREA TU EXPERIENCIA">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!-- AOS CSS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;1,300;1,400&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/styles.css">
+
+    <title>Itinerarios</title>
+</head>
+<body>
+
+  <!-- MENU -->
+  <header>
+      <div class="container-fluid p-0">
+        
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top opacity">
+          <img class="menu__logo" src="../media/logo.png" alt="logo">
+          <h1 class="menu__titulo">Argentina Travel and Tours</h1>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+              <ul class="navbar-nav justify-content-end menu--margin">
+                <li class="nav-item">
+                  <a class="nav-link menu__link" href="../index.html">Inicio</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link menu__link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Destinos
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Buenos Aires</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Iguazu</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Calafate</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Ushuaia</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Mendoza</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Bariloche</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Puerto Madryn</a></li>
+                    <li><a class="dropdown-item menu__link" href="../pages/destinos.html">Norte</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link menu__link active" href="../pages/paquetes.html">Paquetes</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link menu__link" href="../pages/excursiones.html">Excursiones</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link menu__link" href="../pages/contacto.html">Contacto</a>
+                </li>
+              </ul>
+            </div>      
+        </nav>
+      </div>
+  </header>
+
+
+  <main class="container margen">
+
+
+    <div id="ItinerariosCarrousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#ItinerariosCarrousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#ItinerariosCarrousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        
+
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="../media/destinos/chalten.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="../media/destinos/calafate1.jpg" class="d-block w-100" alt="...">
+        </div>
+        
+        
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#ItinerariosCarrousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#ItinerariosCarrousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+        <div id="mostarItems"></div>
+  </main>
+  
+
+  
+
+
+
+
+    <footer class="text-center footer-style mt-5">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-4 footer-col">
+                  <h3>Dirección</h3>
+                  <p>
+                      Marcelo T de Alvear 925 <br />
+                      argentinatravel@gmail.com
+                  </p>
+              </div>
+              <div class="col-md-4 footer-col">
+                  <h3>Mis redes</h3>
+                  <ul class="list-inline">
+                      <li>
+                          <a  target="_blank" href="https://www.facebook.com/" class="btn-social btn-outline">Facebook<i class="fa fa-fw fa-facebook"></i></a>
+                      </li>
+                      <li>
+                          <a  target="_blank" href="https://www.instagram.com/" class="btn-social btn-outline">Instagram<i class="fa fa-fw fa-instagram"></i></a>
+                      </li>
+                      <li>
+                          <a  target="_blank" href="https://www.youtube.com/" class="btn-social btn-outline">Youtube<i class="fa fa-fw fa-youtube"></i></a>
+                      </li>
+                      <li>
+                          <a  target="_blank" href="https://www.linkedin.com/" class="btn-social btn-outline">linkedin<i class="fa fa-fw fa-linkedin"></i></a>
+                      </li>
+                      
+                  </ul>
+              </div>
+              <div class="col-md-4 footer-col">
+                  <h3>SUSCRIPCION PARA NOVEDADES</h3>
+                  <p>TERMINOS Y CONDICIONES</p>
+              </div>
+          </div>
+      </div>
+  </footer>
+
+<!-- Jquery cdn google-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Botstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/30fc018de6.js" crossorigin="anonymous"></script>
+
+<!-- AOS JS -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+AOS.init();
+</script>
+
+<!-- Enlaces js propios-->
+<script src="../js/itinerario.js"></script>
+
+</body>
+</html>

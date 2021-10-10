@@ -1,0 +1,84 @@
+ /* Textos */
+
+.infoArgentina__titulo--fuente{
+   font-size: 3rem;
+}
+.infoArgentina__texto--fuente{
+   font-size: 1.5rem;
+}
+.contacto__titulo{
+    display: block;
+    margin: 0 auto;
+ }
+
+ .destinos{
+    margin-top: 60px;
+    margin-bottom: 60px;
+ }
+ .destinos__texto{
+   font-size: 2rem;
+ }
+
+.destinos__titulo{
+   min-height: 70px;
+   width: 100%;
+   font-size: 3rem;
+   font-weight: bold;
+   letter-spacing: 2px;
+   background-color: rgb(71, 71, 212);
+   color: white;
+   text-align: center;
+ }
+
+ .destinos__paquetes{
+   min-height: 45px;
+   width: 100%;
+   font-size: 2rem;
+   font-weight: bold;
+   letter-spacing: 10px;
+   background-color: rgb(71, 71, 212);
+   color: white;
+   text-align: center;
+ }
+
+.infoArgentina__textoindex{
+   color: ghostwhite;
+   border: 2px solid black;
+}
+
+.banner{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(71, 71, 212);
+   color: white;
+   min-height: 70px;
+   width: 100%;
+}
+
+.banner__titulo{
+   font-size: 2.5rem;
+   font-weight: bold;
+   letter-spacing: 2px;
+}
+
+.link_banner{
+   position: relative;
+   display: inline-block;
+   text-decoration: none;
+}
+.titulo__banner{
+   display: inline;
+
+   height: 40px;
+   width: 100%;
+   
+   position: absolute;
+   top: 20px;
+   left: 10px;
+   color: white;
+   font-weight: bold;
+   font-size: 2rem;
+
+
+}

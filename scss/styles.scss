@@ -1,0 +1,16 @@
+@import "variables";
+@import "generales";
+@import "menu";
+
+@import "textos";
+@import "destinos";
+@import "imagenes";
+
+@import "footer";
+
+@import "formulario";
+ /* Cards */
+
+ .card--size{
+    min-height: 450px;
+ }
