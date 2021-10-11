@@ -4,12 +4,19 @@
   padding: 0%;
   box-sizing: border-box; }
 
+a {
+  text-decoration: none;
+  color: black; }
+
 body {
   width: 100%;
   background-color: #fafffd; }
 
 .margen {
   margin-top: 115px; }
+
+.link_banner {
+  text-decoration: none; }
 
 .menu__logo {
   height: auto;
