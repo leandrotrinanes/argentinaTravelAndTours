@@ -1,28 +1,3 @@
-/* Imagenes Index */
-.infoArgentina{
-   margin-top: 50px;
-}
-.infoArgentina__mapa{  
-   max-width: 400px;
-   padding: 15px;
-   opacity: 0.7;
-}
-.infoArgentina__mapa:hover{
-   opacity: 1;
-}
-.destinos{
-   width: 100%;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-}
-
-.detinos__img{
-   width: 600px;
-   margin: 0 auto;
-   height: auto;
-   
-}
 
 /*Imagenes excursiones*/
 .galeria{
@@ -31,8 +6,8 @@
     width: 100%;
     padding: 20px;
     flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    flex-wrap: nowrap;
+    justify-content: center;
     align-content: center;
     border: 2px solid black;
   }
@@ -74,12 +49,21 @@
 }
 
 //Galería circular de la página "excursiones.html"
+.galeriaCircular{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-grow: 1;
+}
+
 .circular {
-   margin: 50px;
+   margin: 15px;
    display: inline-block;
    position: relative;
-   width: 300px;
-   height: 300px;
+   width: 350px;
+   height: 350px;
    overflow: hidden;
    border-radius: 50%;
  }
@@ -89,3 +73,4 @@
    height: 100%;
    margin-left: 0;
  }
+
